@@ -23,7 +23,7 @@ public class ArrayPractice {
 			else
 			{
 				System.out.println(array);
-			}-[bn7600000000006]
+			}
 		
 		} 
 		
